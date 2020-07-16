@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Nuh!](https://vaporjawn.github.io) 
+### Hey 👋🏽, I'm [Nuh!](https://nuhkoca.github.io/) 
 
 <a href="https://twitter.com/_nuhkoca">
   <img align="left" alt="Nuh Koca | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
