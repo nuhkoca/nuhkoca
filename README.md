@@ -34,7 +34,7 @@ Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an And
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: nuhkocaa@gmail.com;
-- 📝[Resume](https://vaporjawn.github.io/Resume.html)
+- 📝[Resume](https://nuhkoca.github.io/)
 
 **Languages and Tools:**  
 
