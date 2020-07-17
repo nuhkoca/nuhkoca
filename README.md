@@ -54,5 +54,4 @@ Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an And
 
 <p align="start"><img src=https://komarev.com/ghpvc/?username=nuhkoca</p>
 
-⭐️ From [abhisheknaidu](https://github.com/abhisheknaidu)
 ### [What is 20XX?](https://gist.github.com/nuhkoca/ae02268a849760cb89b5a5e43ceac13f#file-20xx)
