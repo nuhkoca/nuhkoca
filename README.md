@@ -29,7 +29,7 @@ Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an And
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Rust; 
+- 🌱 I’m currently hardening my script skills; 
 - 👯 I’m looking to collaborate on Github;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
