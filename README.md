@@ -22,9 +22,11 @@
 <br />
 <br />
 
-Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an Android Engineer at 🙍🏽‍♂️ [@Bosch](https://www.bosch.de/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy GTA IV and PES for the PlayStation.
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+## About me
+
+Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an Android Engineer at 🙍🏽‍♂️ [@Bosch](https://www.bosch.de/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy GTA IV and PES for the PlayStation.
 
 **Talking about Personal Stuffs:**
 
