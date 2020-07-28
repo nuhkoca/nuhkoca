@@ -52,6 +52,9 @@ Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an And
 
 ![Nuh's github stats](https://github-readme-stats.vercel.app/api?username=nuhkoca&show_icons=true&hide_border=true)
 
-<p align="start"> <img src=https://komarev.com/ghpvc/?username=nuhkoca </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nuhkoca/count.svg" />
+</p>
 
 ### [What is 20XX?](https://gist.github.com/nuhkoca/ae02268a849760cb89b5a5e43ceac13f#file-20xx)
