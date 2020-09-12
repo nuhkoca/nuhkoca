@@ -22,7 +22,7 @@
 <br />
 <br />
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
 
 ## About me
 
