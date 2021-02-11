@@ -26,7 +26,7 @@
 
 ## About me
 
-Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an Android Engineer at 🙍🏽‍♂️ [@Bosch](https://www.bosch.de/). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy GTA V and PES for the PlayStation.
+Hi, I'm Nuh Koca, an Android Developer 🚀 from Hannover, currently, I'm an Android Engineer at 🙍🏽‍♂️ [@Trade Republic Bank GmbH](https://traderepublic.com/de-de). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy GTA V and PES for the PlayStation.
 
 **Talking about Personal Stuffs:**
 
