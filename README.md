@@ -58,5 +58,3 @@ Hi, I'm Nuh Koca, an Android Engineer 🚀 from Berlin, currently, I'm working a
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/nuhkoca/count.svg" />
 </p>
-
-### [What is 20XX?](https://gist.github.com/nuhkoca/ae02268a849760cb89b5a5e43ceac13f#file-20xx)
