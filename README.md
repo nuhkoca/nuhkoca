@@ -1,4 +1,5 @@
 ### Hey 👋🏽, I'm [Nuh!](https://nuhkoca.github.io/) 
+
 <br />
 
 <p align="left">
@@ -9,6 +10,8 @@
   <a href="https://paypal.me/nuhkocaa"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
 	 <a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 </p>
+
+<br />
 
 <img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
 
