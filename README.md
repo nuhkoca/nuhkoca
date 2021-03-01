@@ -19,16 +19,6 @@
 
 Hi, I'm Nuh Koca, an Android Engineer 🚀 from Berlin, currently, I'm working as an Android Engineer at 🙍🏽‍♂️ [Trade Republic Bank GmbH](https://traderepublic.com/de-de). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy GTA V and PES for the PlayStation.
 
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently hardening my script skills; 
-- 👯 I’m looking to collaborate on Github;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: nuhkocaa@gmail.com;
-- 📝[Resume](https://nuhkoca.github.io/)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -41,10 +31,20 @@ Hi, I'm Nuh Koca, an Android Engineer 🚀 from Berlin, currently, I'm working a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=nuhkoca&theme=dark&show_icons=true" width="500" height="250"/>
 
-**Stats:**
+**Talking about Personal Stuffs:**
 
-![Nuh's github stats](https://github-readme-stats.vercel.app/api?username=nuhkoca&theme=dark&show_icons=true)
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 🌱 I’m currently hardening my script skills; 
+- 👯 I’m looking to collaborate on Github;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Anything is possible;
+- 📫 How to reach me: nuhkocaa@gmail.com;
+- 📝[Resume](https://nuhkoca.github.io/)
+
+<br />
+<br />
 
 <p align="center"> 
   Visitor count<br>
