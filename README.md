@@ -52,7 +52,7 @@ Hi, I'm Nuh Koca, an Android Engineer 🚀 from Berlin, currently, I'm working a
 
 **Stats:**
 
-![Nuh's github stats](https://github-readme-stats.vercel.app/api?username=nuhkoca&show_icons=true&hide_border=true)
+![Nuh's github stats](https://github-readme-stats.vercel.app/api?username=nuhkoca&theme=dark&show_icons=true)
 
 <p align="center"> 
   Visitor count<br>
