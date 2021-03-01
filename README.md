@@ -1,23 +1,13 @@
 ### Hey 👋🏽, I'm [Nuh!](https://nuhkoca.github.io/) 
 
-<a href="https://twitter.com/_nuhkoca">
-  <img align="left" alt="Nuh Koca | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nuhkoca/">
-  <img align="left" alt="Nuh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/nuhkoca">
-  <img align="left" alt="Nuh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://profile.codersrank.io/user/nuhkoca">
-  <img align="left" alt="Nuh's Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
-</a>
-<a href="https://leetcode.com/nuhkoca/">
-  <img align="left" alt="Nuh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.instagram.com/nuhkocaa">
-  <img align="left" alt="Nuh's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="left">
+  <a href="https://github.com/nuhkoca"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://linkedin.com/in/nuhkoca"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://facebook.com/nuhkocaa"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+  <a href="https://twitter.com/nuhkoca_"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://paypal.me/nuhkocaa"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
+	 <a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+</p>
 
 <br />
 <br />
@@ -49,6 +39,7 @@ Hi, I'm Nuh Koca, an Android Engineer 🚀 from Berlin, currently, I'm working a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 **Stats:**
 
