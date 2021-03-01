@@ -33,6 +33,7 @@ Hi, I'm Nuh Koca, an Android Engineer 🚀 from Berlin, currently, I'm working a
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=nuhkoca&theme=dark&show_icons=true" width="500" height="250"/>
 
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
