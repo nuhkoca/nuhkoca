@@ -9,7 +9,7 @@
   <a href="https://paypal.me/nuhkocaa"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/paypal.png" alt="Nuh Koca | Paypal" width="48px"/></a>
   <a href="https://www.instagram.com/nuhkocaa/"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/instagram.png" alt="Nuh Koca | Instagram" width="48px"/></a>
   <a href="https://stackoverflow.com/users/5459777/nuhkoca"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/stackoverflow.png" alt="Nuh Koca | Stackoverflow" width="48px"/></a>
-  <a href="https://stackoverflow.com/users/5459777/nuhkoca"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/medium.png" alt="Nuh Koca | Medium" width="48px"/></a>
+  <a href="https://medium.com/@nuhkocaa"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/medium.png" alt="Nuh Koca | Medium" width="48px"/></a>
 </p>
 
 <br />
