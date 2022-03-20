@@ -3,12 +3,13 @@
 <br />
 
 <p align="left">
-  <a href="https://github.com/nuhkoca"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="https://linkedin.com/in/nuhkoca"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  <a href="https://facebook.com/nuhkocaa"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a href="https://twitter.com/nuhkoca_"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  <a href="https://paypal.me/nuhkocaa"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
-	 <a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+  <a href="https://github.com/nuhkoca"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/github.png" alt="Nuh Koca | Github" width="48px"/></a>
+  <a href="https://www.linkedin.com/in/nuhkoca/"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/linkedin.png" alt="Nuh Koca | Linkedin" width="48px"/></a>
+  <a href="https://twitter.com/nuhkoca_"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/twitter.png" alt="Nuh Koca | Twitter" width="48px"/></a>
+  <a href="https://paypal.me/nuhkocaa"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/paypal.png" alt="Nuh Koca | Paypal" width="48px"/></a>
+  <a href="https://www.instagram.com/nuhkocaa/"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/instagram.png" alt="Nuh Koca | Instagram" width="48px"/></a>
+  <a href="https://stackoverflow.com/users/5459777/nuhkoca"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/stackoverflow.png" alt="Nuh Koca | Stackoverflow" width="48px"/></a>
+  <a href="https://stackoverflow.com/users/5459777/nuhkoca"><img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/assets/medium.png" alt="Nuh Koca | Medium" width="48px"/></a>
 </p>
 
 <br />
