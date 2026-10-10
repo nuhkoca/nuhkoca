@@ -35,6 +35,13 @@ I'm a Udacity × Google certified Android Developer and an active open-source co
 | [DaggerExoPlayer](https://github.com/nuhkoca/DaggerExoPlayer) | Injecting ExoPlayer with Dagger 2 (featured in a [Medium article](https://medium.com/@nuhkocaa/exoplayer-inject-with-dagger2-6e6f9aa8deb2)) | ![](https://img.shields.io/github/stars/nuhkoca/DaggerExoPlayer?style=flat-square&label=%E2%98%85&color=1F2328) |
 | [libbra](https://github.com/nuhkoca/libbra) | Currency tracker that refreshes rates every second against a selectable base currency | ![](https://img.shields.io/github/stars/nuhkoca/libbra?style=flat-square&label=%E2%98%85&color=1F2328) |
 
+### Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuhkoca/nuhkoca/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/output/snake.svg" width="100%" alt="Snake animation eating my GitHub contribution graph" />
+</picture>
+
 ---
 
 <sub>Happy to talk about Android architecture, engineering practices, or open-source collaboration. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/nuhkoca/).</sub>
