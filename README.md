@@ -2,9 +2,9 @@
 
 **Android Engineer at [Trade Republic](https://traderepublic.com) · Berlin, Germany**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fnuhkoca-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&labelColor=0A66C2&color=1F2328)](https://www.linkedin.com/in/nuhkoca/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-nuhkoca-F58025?style=flat-square&logo=stackoverflow&logoColor=white&labelColor=F58025&color=1F2328)](https://stackoverflow.com/users/5459777/nuhkoca)
-[![X](https://img.shields.io/badge/X-%40nuhkoca__-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000&color=1F2328)](https://x.com/nuhkoca_)
+<a href="https://www.linkedin.com/in/nuhkoca/"><img src="assets/linkedin.svg" width="40" alt="LinkedIn" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/5459777/nuhkoca"><img src="assets/stackoverflow.svg" width="40" alt="Stack Overflow" /></a>&nbsp;
+<a href="https://x.com/nuhkoca_"><img src="assets/x.svg" width="40" alt="X" /></a>
 
 ---
 
